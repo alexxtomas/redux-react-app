@@ -1,0 +1,12 @@
+Instalar redux -> npm install redux
+
+Redux es una biblitoteca que te puedes instalar, pero tambien es un conjunto de patrones de como debes tratar el estado de tu aplicacion.
+
+Para controlar las mutaciones instalar -> npm install -D dreep-freeze 
+
+Aun que redux es totalmente agnostico al framework podemos instalar -> npm install react-redux
+
+Para utilizar las herramientas de desarrollo de redux cuando lo utilizamos junto a react instalar -> npm install redux-devtools-extension
+
+Redux Thunk es un middleware que nos va a permitir tener action creators que devuelvan una funcion.
+Instalacion -> npm install redux-thunk
